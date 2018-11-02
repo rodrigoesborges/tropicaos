@@ -1,7 +1,7 @@
 ---
 layout: layout2017
 title: Tropicaos 2017
-img_capa: http://rodrigoesborges.github.io/Tropicaos/img/TropicaosBandeira.
+img_capa: http://rodrigoesborges.github.io/Tropicaos/img/TropicaosBandeira.jpg
 ---
 
 ## Tropicaos 2018
