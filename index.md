@@ -1,20 +1,19 @@
 ---
 layout: layout2017
 title: Tropicaos 2017
-img_capa: http://brunopedroso.github.io/Tropicaos/img/fotos_2015/foto9.jpg
+img_capa: http://rodrigoesborges.github.io/Tropicaos/img/TropicaosBandeira.png
 ---
 
 ## Tropicaos 2018
 
 <div class="caixa">
 
-  Calma... tudo tem sua hora ;-) <br/><br/>
+  É preciso estar atento e forte! <br/><br/>
 
 <!--   <b>Você já sabe:</b><br/>
 
-  Sábado e Segunda de Carnaval<br/>
-  Concentração às 9:00.<br/>
-  Onde? Só decidimos na véspera.
+  Sábado de Carnaval<br/>
+  Concentração às 15:00.<br/>
 
   <br/><br/>
   Deixe seu email que nós avisamos.
